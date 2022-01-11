@@ -1,5 +1,5 @@
 # core-identity-authorization-types
-Diferenças no processo de autorização utilizando as abordagens **Role-based** e **Claims-based**
+Diferenças no processo de autorização utilizando as abordagens **Role**, **Claims** e **Policy**
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
